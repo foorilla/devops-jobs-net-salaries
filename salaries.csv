@@ -1,4 +1,7 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2021e,SE,FT,DevOps Architect,110000,EUR,130635,IE,100,US,S
+2020,MI,FT,DevOps Developer,100000,USD,100000,US,0,US,L
+2021e,EN,FT,Cloud Engineer,100000,USD,100000,US,100,US,L
 2020,EN,FT,Automation Engineer,70000,USD,70000,US,100,US,L
 2020,SE,FT,DevOps Engineer,128000,USD,128000,US,100,US,L
 2021e,MI,FT,Cloud Operations Engineer,61000,EUR,72443,IE,100,IE,M
@@ -18,7 +21,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021e,MI,FT,Cloud Platform Engineer,135000,USD,135000,US,100,US,L
 2020,SE,FT,DevOps Consultant,191000,USD,191000,US,100,US,L
 2021e,MI,FT,DevOps Engineer,141500,USD,141500,US,50,US,L
-2021e,MI,FT,DevOps Engineer,624000,HKD,80308,HK,0,HK,S
+2021e,MI,FT,DevOps Engineer,624000,HKD,80298,HK,0,HK,S
 2021e,SE,FT,Site Reliability Engineer,140000,USD,140000,US,100,US,L
 2021e,SE,FT,Lead DevOps Engineer,185000,USD,185000,US,100,US,M
 2021e,MI,FT,Client Platform Engineer,165000,USD,165000,US,100,US,L
@@ -121,7 +124,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021e,SE,FT,Cloud Infrastructure Engineer,550000,USD,550000,US,0,US,L
 2020,EN,FT,Cloud Operations Engineer,87000,USD,87000,US,100,US,L
 2021e,MI,FT,Cloud Engineer,32600,USD,32600,UY,100,US,S
-2021e,SE,FT,Staff Site Reliability Engineer,1700000,CZK,78697,CZ,0,CZ,L
+2021e,SE,FT,Staff Site Reliability Engineer,1700000,CZK,78627,CZ,0,CZ,L
 2021e,SE,FT,Lead DevOps Engineer,125000,USD,125000,US,100,US,M
 2021e,SE,FT,Cloud DevOps Systems Engineer,93000,USD,93000,US,0,US,L
 2020,MI,FT,DevOps Engineer,110729,USD,110729,US,100,US,M
