@@ -1,15 +1,17 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2022,SE,FT,Cloud DevOps Engineer,33200,EUR,37599,HR,100,HR,L
+2022,SE,FT,Site Reliability Engineer,175000,USD,175000,US,100,US,L
 2022,MI,FT,Cloud Engineer,75000,USD,75000,CO,100,US,L
 2021,SE,FT,Principal Site Reliability Engineer,190000,USD,190000,US,100,US,L
 2022,SE,FT,DevOps Engineer,140000,USD,140000,US,100,US,L
 2022,SE,FT,DevOps Engineer,100000,USD,100000,US,100,US,L
-2022,MI,FT,DevOps Engineer,420000,ILS,134649,IL,50,IL,S
-2022,SE,FT,Cloud Engineer,70850,EUR,80415,LV,100,LV,M
+2022,MI,FT,DevOps Engineer,420000,ILS,133411,IL,50,IL,S
+2022,SE,FT,Cloud Engineer,70850,EUR,80237,LV,100,LV,M
 2022,MI,FT,Cloud DevOps Engineer,25000,USD,25000,TN,50,TN,L
-2022,SE,FT,Principal DevOps Engineer,78000,GBP,105969,GB,100,GB,M
+2022,SE,FT,Principal DevOps Engineer,78000,GBP,105660,GB,100,GB,M
 2021,EN,FT,Cloud DevOps Engineer,90000,USD,90000,US,100,US,M
-2022,SE,FT,DevOps Engineer,144000,CAD,114256,CA,100,CA,L
-2022,EN,FT,IT DevOps Engineer,30000,USD,30000,NG,100,US,M
+2022,SE,FT,DevOps Engineer,144000,CAD,113920,CA,100,CA,L
+2022,EN,FT,DevOps Engineer,30000,USD,30000,NG,100,US,M
 2021,SE,FT,DevOps Engineer,120000,CHF,131245,CH,100,CH,S
 2020,SE,FT,DevOps Engineer,140000,USD,140000,US,100,US,L
 2021,SE,FT,Site Reliability Engineer,245000,USD,245000,US,100,US,L
@@ -21,7 +23,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2020,EN,FT,Automation Engineer,70000,USD,70000,US,100,US,L
 2020,SE,FT,DevOps Engineer,128000,USD,128000,US,100,US,L
 2021,MI,FT,Cloud Operations Engineer,61000,EUR,72105,IE,100,IE,M
-2021,MI,FT,DevOps Team Lead,37000,EUR,43736,HR,100,HR,L
+2021,MI,FT,Lead DevOps Engineer,37000,EUR,43736,HR,100,HR,L
 2021,EX,FT,DevOps Manager,160000,CAD,127620,CA,100,CA,M
 2021,EN,FT,Cloud Security Engineer,47000,EUR,55556,IE,100,IE,M
 2020,MI,FT,Azure Cloud Engineer,125000,USD,125000,US,100,US,L
@@ -119,7 +121,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,SE,FT,Cloud Engineer,110000,USD,110000,US,50,US,M
 2021,MI,FT,Cloud Architect,50000,EUR,59102,FR,50,FR,M
 2021,MI,FT,DevOps Engineer,71500,SGD,53204,SG,50,SG,M
-2021,EN,FT,IT Infrastructure Engineer,44000,EUR,52010,DE,50,DE,S
+2021,EN,FT,Infrastructure Engineer,44000,EUR,52010,DE,50,DE,S
 2021,SE,FT,Principal DevOps Engineer,83000,GBP,114164,GB,50,GB,M
 2020,MI,FT,Infrastructure Engineer,50000,USD,50000,CA,0,CA,L
 2021,SE,FT,Principal DevOps Engineer,200000,USD,200000,US,100,DE,L
@@ -168,7 +170,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2020,SE,FT,Infrastructure Engineer,90000,USD,90000,CA,100,US,S
 2021,EN,FT,Infrastructure Python Developer,74000,USD,74000,US,100,US,L
 2021,SE,FT,DevOps Engineer,105000,USD,105000,US,50,US,S
-2020,SE,FT,IT DevOps Engineer,140000,USD,140000,US,100,US,L
+2020,SE,FT,DevOps Engineer,140000,USD,140000,US,100,US,L
 2021,MI,FT,Site Reliability Engineer,135000,USD,135000,US,100,US,S
 2021,MI,FT,DevOps Engineer,55000,GBP,75650,GB,100,GB,L
 2020,MI,FT,Azure DevOps Engineer,80000,NZD,51945,NZ,50,NZ,L
@@ -187,10 +189,10 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2020,SE,FT,Cloud Architect,60000,EUR,68428,ES,0,ES,L
 2021,EN,FT,Cloud DevOps Engineer,28500,GBP,39200,GB,100,GB,S
 2020,SE,FT,Principal Site Reliability Engineer,100000,USD,100000,TH,0,TH,L
-2021,MI,FT,DevOps Team Lead,87500,USD,87500,US,100,US,L
+2021,MI,FT,Lead DevOps Engineer,87500,USD,87500,US,100,US,L
 2021,MI,FT,Infrastructure Engineer,150000,AUD,112575,AU,0,AU,S
 2021,SE,FT,DevOps Engineer,80000,EUR,94564,PT,100,NL,L
-2021,SE,FT,IT Infrastructure Engineer,115000,AUD,86307,AU,0,AU,M
+2021,SE,FT,Infrastructure Engineer,115000,AUD,86307,AU,0,AU,M
 2021,SE,FT,DevOps Engineer,36000,USD,36000,TR,50,TR,M
 2021,SE,FT,DevOps Engineer,115000,AUD,86307,AU,50,AU,M
 2021,SE,FT,Site Reliability Engineer,160000,CAD,127620,CA,100,US,L
@@ -221,7 +223,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,SE,FT,Platform Engineer,190000,USD,190000,US,100,US,L
 2021,MI,FT,DevOps Engineer,155000,USD,155000,US,100,US,M
 2020,SE,FT,DevOps Engineer,150000,USD,150000,US,100,US,M
-2021,SE,FT,DevOps Team Lead,170000,USD,170000,US,100,US,L
+2021,SE,FT,Lead DevOps Engineer,170000,USD,170000,US,100,US,L
 2021,MI,FT,DevOps Consultant,2320,EUR,2742,AL,50,DE,L
 2021,MI,FT,DevOps Engineer,130000,USD,130000,US,100,US,M
 2021,MI,FT,Cloud Engineer,53000,EUR,62649,PT,100,PT,L
@@ -234,7 +236,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,SE,FT,DevOps Engineer,54000,EUR,63831,EE,100,EE,M
 2021,MI,FT,Azure Cloud Engineer,100000,USD,100000,US,100,US,L
 2021,SE,FT,Cloud Infrastructure Architect,202000,USD,202000,US,50,US,M
-2021,MI,FT,DevOps Team Lead,150000,USD,150000,US,100,US,M
+2021,MI,FT,Lead DevOps Engineer,150000,USD,150000,US,100,US,M
 2021,EN,FT,DevOps Engineer,480000,SEK,55916,SE,100,SE,L
 2021,SE,FT,Site Reliability Engineer,150000,USD,150000,US,100,US,M
 2021,SE,FT,Cloud DevOps Engineer,1200000,MXN,59153,MX,100,US,M
@@ -276,7 +278,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,SE,FT,Cloud DevOps Engineer,150000,USD,150000,US,100,US,L
 2021,SE,FT,DevOps Infrastructure Engineer,48500,EUR,57329,ES,100,ES,L
 2020,SE,FT,DevSecOps Engineer,140000,USD,140000,US,100,US,L
-2021,EN,FT,IT Infrastructure Engineer,168000,ILS,52020,IL,50,IL,S
+2021,EN,FT,Infrastructure Engineer,168000,ILS,52020,IL,50,IL,S
 2021,SE,FT,DevOps Engineer,236000,USD,236000,US,100,US,L
 2021,MI,FT,DevOps Engineer,130000,CAD,103691,CA,100,US,L
 2021,MI,FT,Cloud Engineer,95000,USD,95000,US,100,US,M
@@ -304,7 +306,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2020,MI,FT,Cloud DevOps Engineer,10000000,JPY,93684,JP,100,JP,L
 2020,EN,FT,DevOps Architect,130000,USD,130000,CH,100,CH,L
 2021,MI,FT,DevOps Engineer,150000,USD,150000,US,100,US,L
-2021,SE,FT,IT Infrastructure Engineer,96000,EUR,113477,DE,100,DE,M
+2021,SE,FT,Infrastructure Engineer,96000,EUR,113477,DE,100,DE,M
 2021,EN,FT,Cloud Engineer,43000,EUR,50828,FR,50,US,L
 2021,MI,FT,DevOps Engineer,119000,USD,119000,US,100,US,L
 2021,SE,FT,DevOps Engineer,140000,USD,140000,US,100,US,L
@@ -313,7 +315,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,SE,FT,Site Reliability Engineer,96000,EUR,113477,DE,100,DE,L
 2020,SE,FT,Cloud Infrastructure Engineer,140000,USD,140000,US,0,US,M
 2021,MI,FT,Site Reliability Engineer,840000,NOK,97710,NO,50,NO,L
-2021,SE,FT,DevOps Team Lead,155000,USD,155000,US,50,US,M
+2021,SE,FT,Lead DevOps Engineer,155000,USD,155000,US,50,US,M
 2021,SE,FT,Infrastructure Architect,170000,USD,170000,US,50,US,L
 2021,SE,FT,Site Reliability Engineer,133000,EUR,157213,FI,100,FI,L
 2020,MI,FT,Site Reliability Engineer,150000,USD,150000,US,100,US,L
@@ -358,7 +360,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,MI,FT,DevOps Engineer,171000,USD,171000,US,100,US,M
 2020,EN,FT,DevOps Engineer,90000,USD,90000,US,100,US,M
 2020,EN,FT,DevOps Engineer,80000,USD,80000,US,100,US,L
-2020,EX,FT,IT DevOps Engineer,125000,USD,125000,US,100,US,S
+2020,EX,FT,DevOps Engineer,125000,USD,125000,US,100,US,S
 2021,EN,FT,DevOps Engineer,70000,USD,70000,US,0,US,L
 2021,EN,FT,DevOps Engineer,113000,USD,113000,US,100,US,M
 2021,SE,FT,Staff Platform Engineer,191000,USD,191000,US,100,US,M
@@ -390,7 +392,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,EX,FT,DevOps Architect,220000,USD,220000,US,100,US,L
 2021,SE,FT,DevOps Infrastructure Engineer,185000,USD,185000,US,100,US,M
 2021,MI,FT,DevOps Engineer,60000,EUR,70923,FR,100,FR,S
-2021,SE,FT,DevOps Team Lead,145000,USD,145000,US,100,US,M
+2021,SE,FT,Lead DevOps Engineer,145000,USD,145000,US,100,US,M
 2020,SE,FT,Site Reliability Engineer,120000,USD,120000,US,100,US,L
 2021,SE,FT,Cloud Infrastructure Engineer,435000,USD,435000,US,50,US,L
 2020,SE,FT,Principal DevOps Engineer,145000,USD,145000,US,100,US,L
@@ -447,7 +449,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2020,EN,FT,DevOps Engineer,12000,EUR,13685,HR,0,HR,M
 2021,MI,CT,DevOps Engineer,185000,PLN,47891,PL,100,PL,L
 2021,EX,FT,Site Reliability Engineering Manager,170000,USD,170000,US,100,US,M
-2020,MI,FT,DevOps Team Lead,45000,GBP,57718,GB,100,GB,S
+2020,MI,FT,Lead DevOps Engineer,45000,GBP,57718,GB,100,GB,S
 2021,EN,FT,DevOps Engineer,150000,USD,150000,US,100,US,M
 2021,MI,FT,Infrastructure Engineer,250000,USD,250000,US,100,US,M
 2021,SE,CT,Cloud DevOps Engineer,170000,USD,170000,US,100,US,L
@@ -612,7 +614,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2020,EN,FT,Site Reliability Engineer,25500,GBP,32707,GB,0,FR,M
 2020,SE,FT,Cloud Engineer,700000,NOK,74435,NO,100,NO,S
 2021,EN,FT,DevOps Engineer,52000,EUR,61467,DE,50,DE,S
-2020,EN,FT,IT Infrastructure Engineer,32000,EUR,36495,FR,100,FR,S
+2020,EN,FT,Infrastructure Engineer,32000,EUR,36495,FR,100,FR,S
 2021,EN,FT,DevOps Engineer,54000,EUR,63831,DE,100,DE,L
 2021,MI,CT,DevOps Engineer,140000,EUR,165488,ES,100,US,M
 2020,MI,FT,DevOps Engineer,60000,GBP,76958,GB,50,GB,M
@@ -638,14 +640,14 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,SE,FT,DevOps Engineer,95000,EUR,112295,NL,50,NL,L
 2021,SE,CT,DevSecOps Engineer,335000,USD,335000,US,100,US,S
 2021,MI,FT,Cloud Architect,40000,EUR,47282,PT,50,PT,L
-2021,SE,FT,DevOps Team Lead,193000,USD,193000,US,0,US,L
+2021,SE,FT,Lead DevOps Engineer,193000,USD,193000,US,0,US,L
 2020,MI,FT,Cloud DevOps Engineer,200000,EUR,228094,FR,100,FR,M
-2021,EN,FT,IT DevOps Engineer,17100,EUR,20213,ES,0,ES,M
+2021,EN,FT,DevOps Engineer,17100,EUR,20213,ES,0,ES,M
 2021,MI,FT,DevOps Developer,57000,EUR,67377,DE,50,DE,L
 2021,MI,FT,Data Platform Engineer,30000,USD,30000,IN,0,IN,L
 2020,EN,FT,Cloud DevOps Systems Engineer,30000,EUR,34214,FR,0,FR,M
 2020,SE,FT,DevOps Consultant,119000,CHF,126811,FR,0,CH,L
-2020,SE,FT,IT Infrastructure Engineer,45000,EUR,51321,IT,0,IT,M
+2020,SE,FT,Infrastructure Engineer,45000,EUR,51321,IT,0,IT,M
 2021,SE,FT,DevOps Engineer,75000,GBP,103160,GB,100,GB,L
 2021,SE,FT,DevOps Architect,48000,USD,48000,US,0,RU,M
 2020,SE,FT,DevOps Engineer,120000,CAD,89506,CA,50,CA,S
